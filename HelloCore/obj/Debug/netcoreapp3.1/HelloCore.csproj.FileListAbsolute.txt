@@ -1,0 +1,11 @@
+E:\Project\HelloCore\HelloCore\HelloCore\bin\Debug\netcoreapp3.1\HelloCore.exe
+E:\Project\HelloCore\HelloCore\HelloCore\bin\Debug\netcoreapp3.1\HelloCore.deps.json
+E:\Project\HelloCore\HelloCore\HelloCore\bin\Debug\netcoreapp3.1\HelloCore.runtimeconfig.json
+E:\Project\HelloCore\HelloCore\HelloCore\bin\Debug\netcoreapp3.1\HelloCore.runtimeconfig.dev.json
+E:\Project\HelloCore\HelloCore\HelloCore\bin\Debug\netcoreapp3.1\HelloCore.dll
+E:\Project\HelloCore\HelloCore\HelloCore\bin\Debug\netcoreapp3.1\HelloCore.pdb
+E:\Project\HelloCore\HelloCore\HelloCore\obj\Debug\netcoreapp3.1\HelloCore.csprojAssemblyReference.cache
+E:\Project\HelloCore\HelloCore\HelloCore\obj\Debug\netcoreapp3.1\HelloCore.AssemblyInfoInputs.cache
+E:\Project\HelloCore\HelloCore\HelloCore\obj\Debug\netcoreapp3.1\HelloCore.AssemblyInfo.cs
+E:\Project\HelloCore\HelloCore\HelloCore\obj\Debug\netcoreapp3.1\HelloCore.dll
+E:\Project\HelloCore\HelloCore\HelloCore\obj\Debug\netcoreapp3.1\HelloCore.pdb
